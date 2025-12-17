@@ -57,11 +57,21 @@ pip install customtkinter
 python mojKalkulator.py
 ```
 
+## Testiranje
+Testovi su implementirani korišćenjem `unittest` modula.
+
+Pokretanje testova:
+```bash
+python -m unittest
+```
+
 ---
 ## Izgled aplikacije
 ![Kalkulator](slike/pocetna.png)
 ![Kalkulator](slike/prosirena(light).png)
 ![Kalkulator](slike/prosirena(dark).png)
+
+---
 ## Autor
 
 - **Vukašin Jovanović**
