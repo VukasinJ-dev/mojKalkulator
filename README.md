@@ -58,7 +58,10 @@ python mojKalkulator.py
 ```
 
 ---
-
+## Izgled aplikacije
+![Kalkulator](slike/pocetna.png)
+![Kalkulator](slike/prosirena(light).png)
+![Kalkulator](slike/prosirena(dark).png)
 ## Autor
 
 - **Vukašin Jovanović**
